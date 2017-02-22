@@ -1,0 +1,2 @@
+# mynewgit
+repository(mynewgit)
